@@ -2,7 +2,7 @@
 
 # Roman Vector
 
-**Editor vetorial para desenho, matemática, geometria e criação procedural no navegador.**
+**Editor vetorial para desenho, matemática e criação/animação procedural no navegador.**
 
 ### [🚀 Abrir Roman Vector](https://pedroromaobatista.github.io/roman-vector/)
 
@@ -20,7 +20,7 @@ O **Roman Vector** reúne ferramentas de desenho vetorial, construções geomét
 
 ![Interface de edição vetorial do Roman Vector](screenshots/interface-vetorial.png)
 
-Criação e edição de formas geométricas, com barra de ferramentas e área de desenho.
+Criação e edição de formas geométricas, com barra de ferramentas e área de desenho. Possui todos os recursos básicos de um editor vetorial padrão.
 
 ### Construções tridimensionais
 
@@ -38,16 +38,16 @@ Construção de curvas e formas por meio de nodes conectados e operações matem
 
 ![Composição futurista criada no Roman Vector](screenshots/arte-vetorial.png)
 
-Exemplo de composição gráfica criada no editor, demonstrando possibilidades de personalização visual.
+Exemplo de composição gráfica animada criada no editor, demonstrando possibilidades de personalização visual e animações procedurais avançadas.
 
 ## Funcionalidades
 
-- **Desenho vetorial:** formas, curvas, contornos, preenchimentos e edição de objetos.
-- **Geometria e matemática:** construções geométricas, ferramentas de medição, plano cartesiano e gráficos estatísticos.
-- **Recursos 3D:** poliedros, extrusão e revolução.
+- **Desenho vetorial:** formas, curvas, nós, contornos, preenchimentos e edição de objetos.
+- **Geometria e matemática:** construções geométricas, ferramentas de medição, plano cartesiano e gráficos matemáticos, gráficos estatísticos, fórmulas LaTex e muito mais!
+- **Recursos 3D:** poliedros, extrusão e revolução, podendo ser criadas animações via Procedural 2D.
 - **Procedural 2D:** nodes, operações matemáticas, instâncias e animações.
 - **Personalização:** temas visuais e efeitos gráficos.
-- **Exportação:** opções para salvar projetos e exportar desenhos.
+- **Exportação:** opções para salvar projetos e exportar desenhos e vídeo em mp4.
 
 ## Acesso e atualizações
 
