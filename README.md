@@ -24,9 +24,9 @@ Criação e edição de formas geométricas, com barra de ferramentas e área de
 
 ### Construções tridimensionais
 
-![Ferramentas tridimensionais do Roman Vector](screenshots/ferramentas-3d.png)
+![Ferramentas tridimensionais do Roman Vector](screenshots/print_git_05.png)
 
-Exemplos de sólidos e painel da **Construtora de Revoluções 3D**, com opções de rotação, projeção e aparência.
+Exemplos de fórmulas LaTex, de construções 3D e painel da **Construtora de Extrusões 3D**, com opções de rotação, projeção e aparência.
 
 ### Procedural 2D — nodes e matemática
 
